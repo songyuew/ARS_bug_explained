@@ -35,7 +35,7 @@
 ![ARS-USD](./img/ARS_USD_Official.png)
 （`Official ARS`兑`USD`走势，数据来源：[Refinitiv](https://www.refinitiv.com/en))
 
-- 在国内使用外汇，可以享受一些**非货币的好处**（例如平壤的进口超市只接受`USD`，`CNY`，`EUR`付款；九十年代之前我国的[友谊商店](https://baike.baidu.com/item/%E5%8F%8B%E8%B0%8A%E5%95%86%E5%BA%97/5235874)仅支持顾客使用[外汇兑换券](https://baike.baidu.com/item/%E5%A4%96%E6%B1%87%E5%88%B8/639104)购物）。
+- 在国内使用外汇，可以享受一些**非货币的好处**（例如平壤的进口超市只接受美元，欧元，以及人民币付款；九十年代之前我国的[友谊商店](https://baike.baidu.com/item/%E5%8F%8B%E8%B0%8A%E5%95%86%E5%BA%97/5235874)仅支持顾客使用[外汇兑换券](https://baike.baidu.com/item/%E5%A4%96%E6%B1%87%E5%88%B8/639104)购物）。
 
 (真的很想收藏一张外汇券，过两天去旺角看看有没有价钱合适的)
 
